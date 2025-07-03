@@ -1,0 +1,20 @@
+{
+   "MODO_DEBUG": true,
+   "DIMENSAO_INTERNA": 512,
+   "AJUSTA_MARGEM": 0.7,
+   "LIMIAR_EAR": 0.2,
+   "LIMIAR_BLI": 0.5,
+   "LIMIAR_FELIZ": 50,
+   "LIMIAR_OCULOS": 200,
+   "LIMIAR_CHAPEU": 200,
+   "LIMIAR_FRONT": 17,
+   "LIMIAR_ROSTO": 0.6,
+   "TESTE_LATERAL_CONTRAST": true,
+   "TESTE_FACE_FRONTAL": true,
+   "TESTE_EYES_OPEN": true,
+   "TESTE_BOTH_EYES": true,
+   "TESTE_EXPRESSION": true,
+   "TESTE_GLASSES": true,
+   "TESTE_HAT": true,
+   "TESTE_FACE_MASK": true
+}
