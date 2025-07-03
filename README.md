@@ -1,6 +1,6 @@
 # valida_foto
 
-Valida uma foto para documentos baseada nas bibliotecas insightface, deepface e face-parsing. Verifica se:
+Valida uma foto para documentos baseada nas bibliotecas [insightface](https://github.com/deepinsight/insightface), [deepface](https://github.com/serengil/deepface) e [face-parsing](https://github.com/yakhyo/face-parsing). Verifica se:
 1. Rosto está virado para frente
 2. Expressão está neutra
 3. Se está usando acessórios (óculos, máscara, chapéu)
